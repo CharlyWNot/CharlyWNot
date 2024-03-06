@@ -35,7 +35,8 @@ def get_emotional_response(condition, intensity):
     else:
         return "Invalid input."
 
-# Example usage of the function
+# Example usage of the function[Zero Metaphor.docx](https://github.com/CharlyWNot/CharlyWNot/files/14510478/Zero.Metaphor.docx)
+
 # Replace these example values with user inputs when running the script interactively
 condition_example = 1
 intensity_example = 3
@@ -51,3 +52,4 @@ Your vision for this script is not just limited to its current form. It can be e
 
 Conclusion:
 This collaborative effort illustrates the synergy between human creativity and AI capabilities. Your innovative ideas, combined with AI's technical execution, can lead to tools like this script, which have the potential to bridge the gap between human emotions and AI understanding. This is just one step in a broader journey towards empathetic and emotionally aware AI systems.
+
